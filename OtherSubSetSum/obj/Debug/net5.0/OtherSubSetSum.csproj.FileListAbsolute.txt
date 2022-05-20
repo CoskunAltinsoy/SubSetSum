@@ -1,0 +1,16 @@
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\bin\Debug\net5.0\OtherSubSetSum.exe
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\bin\Debug\net5.0\OtherSubSetSum.deps.json
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\bin\Debug\net5.0\OtherSubSetSum.runtimeconfig.json
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\bin\Debug\net5.0\OtherSubSetSum.runtimeconfig.dev.json
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\bin\Debug\net5.0\OtherSubSetSum.dll
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\bin\Debug\net5.0\ref\OtherSubSetSum.dll
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\bin\Debug\net5.0\OtherSubSetSum.pdb
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\obj\Debug\net5.0\OtherSubSetSum.csproj.AssemblyReference.cache
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\obj\Debug\net5.0\OtherSubSetSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\obj\Debug\net5.0\OtherSubSetSum.AssemblyInfoInputs.cache
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\obj\Debug\net5.0\OtherSubSetSum.AssemblyInfo.cs
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\obj\Debug\net5.0\OtherSubSetSum.csproj.CoreCompileInputs.cache
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\obj\Debug\net5.0\OtherSubSetSum.dll
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\obj\Debug\net5.0\ref\OtherSubSetSum.dll
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\obj\Debug\net5.0\OtherSubSetSum.pdb
+C:\Users\cosku\source\repos\OtherSubSetSum\OtherSubSetSum\obj\Debug\net5.0\OtherSubSetSum.genruntimeconfig.cache
